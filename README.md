@@ -25,7 +25,3 @@
 #### GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeorgeKigs&theme=radical)
-
-#### GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=GeorgeKigs&theme=onedark)
